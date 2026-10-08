@@ -1,0 +1,6 @@
+{
+  "name": "Student Expense Tracker",
+  "description": "SpendWise - A modern, responsive expense tracking and budgeting web app for college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
